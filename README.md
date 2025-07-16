@@ -5,7 +5,8 @@
 
 About Me
 
-- Position: **Full Stack Developer**
+- Position:
+  - Full Stack Developer
   
 - Skills:
   - Git & GitHub
