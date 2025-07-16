@@ -1,16 +1,30 @@
-## Hi there 👋
+<h1 align="center">👋 Hello, I'm Norpulatov Jaxongir Abdullayevich</h1>
+<h3 align="center">💻 Full Stack Developer</h3>
 
-<!--
-**jaxongirofficial/jaxongirofficial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🧑‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💼 Position: **Full Stack Developer**
+- 🌍 Languages:
+  - 🇺🇿 Uzbek — Native
+  - 🇬🇧 English — Advanced
+  - 🇷🇺 Russian — Pre-Intermediate
+- 🛠️ Skills:
+  - Git & GitHub
+  - JavaScript, PHP, Java
+  - Laravel Framework
+  - SQL & Database Management
+
+---
+
+### 📫 Contact Me
+
+- 📱 Phone: +998 (77) 042-57-77
+- 📧 Email: **norpulatovjaxongir207@gmail.com**
+- 💬 Telegram: (https://t.me/JaxongirNorpulat0v)
+- 📷 Instagram: (https://instagram.com/jaxongirofficialll)
+
+---
+
+> 🎯 My goal is to keep improving, learn new technologies, and build efficient, modern solutions.
