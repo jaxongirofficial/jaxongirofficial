@@ -23,4 +23,4 @@ About Me
   - Telegram: (https://t.me/JaxongirNorpulat0v)
   - Instagram: (https://instagram.com/jaxongir.officialll)
 
-<h1>My goal is to keep improving, learn new technologies, and build efficient, modern solutions.</h1>
+<h4 style="color:red;">My goal is to keep improving, learn new technologies, and build efficient, modern solutions.</h4>
