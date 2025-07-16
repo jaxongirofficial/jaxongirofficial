@@ -22,6 +22,6 @@ About Me
 -  Phone: +998 (77) 042-57-77
 -  Email: **norpulatovjaxongir207@gmail.com**
 -  Telegram: (https://t.me/JaxongirNorpulat0v)
--  Instagram: (https://instagram.com/jaxongirofficialll)
+-  Instagram: (https://instagram.com/jaxongir.officialll)
 
 >  My goal is to keep improving, learn new technologies, and build efficient, modern solutions.
