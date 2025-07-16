@@ -1,9 +1,9 @@
 <h1 align="center">Hello, I'm Norpulatov Jaxongir Abdullayevich</h1>
-<h3 align="center">Full Stack Developer</h3>
+<h2 align="center">Full Stack Developer</h2>
 
 ---
 
-<h4>My goal is to keep improving, learn new technologies, and build efficient, modern solutions.</h4>
+<h3>My mission is to craft clean, scalable, and impactful code that doesn't just solve problems — it transforms ideas into digital reality.</h3>
 <br>
 About Me
 
