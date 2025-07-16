@@ -14,9 +14,9 @@ About Me
   - SQL & Database Management
 
 - Languages:
-  - 🇺🇿 Uzbek — Native
-  - 🇬🇧 English — Advanced
-  - 🇷🇺 Russian — Pre-Intermediate
+  - Uzbek — Native
+  - English — Advanced
+  - Russian — Pre-Intermediate
 
   Contact Me
 -  Phone: +998 (77) 042-57-77
