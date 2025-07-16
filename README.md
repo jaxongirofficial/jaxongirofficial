@@ -1,4 +1,4 @@
-<h1 align="center">Hello, I'm Norpulatov Jaxongir Abdullayevich</h1>
+<h1 align="center">Hello, I'm Jaxongir Norpulatov </h1>
 <h2 align="center">Full Stack Developer</h2>
 
 ---
