@@ -3,6 +3,8 @@
 
 ---
 
+<h4>My goal is to keep improving, learn new technologies, and build efficient, modern solutions.</h4>
+
 About Me
 
 - Position:
@@ -24,4 +26,4 @@ About Me
   - Telegram: (https://t.me/JaxongirNorpulat0v)
   - Instagram: (https://instagram.com/jaxongir.officialll)
 
-<h4>My goal is to keep improving, learn new technologies, and build efficient, modern solutions.</h4>
+
