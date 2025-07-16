@@ -11,6 +11,7 @@ About Me
   - Full Stack Developer
   
 - Skills:
+  - Html & Css & Bootstrap
   - Git & GitHub
   - JavaScript, PHP, Java
   - Laravel Framework
