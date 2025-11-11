@@ -13,9 +13,10 @@ About Me
 - Skills:
   - Html & Css & Bootstrap
   - Git & GitHub
-  - JavaScript, PHP, Java
+  - JavaScript, PHP, Java , Dart
   - Laravel Framework
   - SQL & Database Management
+  - Flutter
 
 - Languages:
   - Uzbek — Native
