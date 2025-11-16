@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm Jaxongir Norpulatov </h1>
-<h2 align="center">Full Stack Developer</h2>
+<h2 align="center">Full Stack Developer & Mobile Developer</h2>
 
 ---
 
