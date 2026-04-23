@@ -8,7 +8,7 @@
 About Me
 
 - Position:
-  - Full Stack Developer & Mobile Developer
+  - Front-End Developer & Mobile Developer
   
 - Skills:
   - Html & Css & Bootstrap
